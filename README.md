@@ -4,8 +4,6 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 Live site: [Pending deployment](/)
 
-![Portfolio Preview](public/images/preview1.png)
-
 ## Table of Contents
 
 - [Features](#features)
@@ -90,8 +88,8 @@ Live site: [Pending deployment](/)
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd 3d-portfolio
+   git clone https://github.com/adnanghazali111/3D-Animated-Portfolio.git
+   cd 3d-portfolio-main
    ```
 
 2. Install dependencies:
